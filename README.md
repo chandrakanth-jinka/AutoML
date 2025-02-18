@@ -1,6 +1,6 @@
 # AutoML 
 
-An automated machine learning platform that combines powerful backend processing with a user-friendly frontend interface. This platform automates the entire machine learning workflow, from data preprocessing to model deployment.
+An automated machine learning platform that combines powerful various models . This platform automates the entire machine learning workflow, from data preprocessing to model deployment.
 
 ## Features
 
